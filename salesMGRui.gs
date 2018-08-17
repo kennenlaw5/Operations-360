@@ -131,11 +131,11 @@ function performance(day){
   var seth=[0,0,0];
   var dean=[0,0,0];
   
-  var tjeff=["Kiersten Peterson","Brian Neal","Jonthan Wingfield","Omar Johnson","Jeremy Sanchez","Ian Hudgens","Roger Surroz"];
+  var tjeff=["Kiersten Peterson","Brian Neal","Jonthan Wingfield","Omar Johnson","Jeremy Sanchez","Ian Hudgens"];
   var tben=["Demitri Gavito","Patrick Quinlan","Tony Moomau","Karen Timmons","Troy","Stephen Giese"];
   var trobb=["Agymang Spencer","Jacob Ford","Kathy Powell","Chris Castro","Jeffrey Tucker","Conner Graves"];
-  var tanna=["Sam Nejad","Connor Hanlon","Ace Taylor-Brown","Jenny Kim","Andrew Sapoznik","Erin Vangilder"];
-  var tseth=["Jeffrey Hanson","Chuck Northrup","Christopher Leirer","Alexander Duquette","Marlowe Jones","Shaun Welch","Craig Smeton"];
+  var tanna=["Sam Nejad","Connor Hanlon","Ace Taylor-Brown","Andrew Sapoznik","Erin Vangilder"];
+  var tseth=["Jeffrey Hanson","Chuck Northrup","Christopher Leirer","Alexander Duquette","Marlowe Jones","Shaun Welch","Craig Smeton","Jenny Kim"];
   var tdean=["Tim Green","Ben Wegener","Josh Ackerman"];
   
   var teamCA=[tjeff,tben,trobb,tanna,tseth,tdean];
